@@ -5,6 +5,7 @@
 	<compatibility>
 		<firmware>
 			<maxiOS>15.7.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies></dependencies>

@@ -1,0 +1,6 @@
+Package: com.foxfort.Exiwall
+Name: Exiwall
+Section: Tweaks
+Depends: mobilesubstrate
+Description: Exiwall
+Depiction: https://suparoo.github.io/repo/depictions/?p=com.foxfort.Exiwall
