@@ -1,0 +1,19 @@
+<package>
+	<id>com.foxfort.Exiwall</id>
+	<name>Exiwall</name>
+	<version>2.0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>15.7.5</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This is an old package. Requires iOS 7 and below..</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
