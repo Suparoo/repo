@@ -16,3 +16,23 @@ Author: FoxfortMobile
 Icon: file:///Library/PreferenceBundles/exiwallsettings.bundle/icon@3x.png
 Name: Exiwall
 
+Package: xyz.cypwn.aimpro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CyPwn
+Installed-Size: 6172
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
+Filename: ./debs/xyz.cypwn.aimpro_1.0.deb
+Size: 3184628
+MD5sum: d5b761d1e493dc0571f569ae795f92f2
+SHA1: 3601e3df201cc0c4170ab4091cbcbf7f20311541
+SHA256: 0c86d131ecd3b31415675351df81b99af154ff160e6f6291f5b6f8e475463887
+Section: Tweaks
+Description: iOS 16 Style Time & Date Lockscreen
+Author: alimaulana
+Depiction: https://repo.cypwn.xyz/depiction/1085
+Icon: https://media.havoc.app/642009161ed06bb2ce43e2a1
+Name: AIM Pro
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1085
+

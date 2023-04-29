@@ -1,0 +1,20 @@
+<package>
+	<id>xyz.cypwn.aimpro</id>
+	<name>AIM Pro</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>15.7.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>iOS 16 Lock Screen</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

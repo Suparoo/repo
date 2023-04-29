@@ -4,3 +4,10 @@ Section: Tweaks
 Depends: mobilesubstrate
 Description: Exiwall
 Depiction: https://suparoo.github.io/repo/depictions/?p=com.foxfort.Exiwall
+
+Package: xyz.cypwn.aimpro
+Name: AIM Pro
+Section: Tweaks
+Depends: mobilesubstrate
+Description: AIM Pro
+Depiction: https://suparoo.github.io/repo/depictions/?p=xyz.cypwn.aimpro
